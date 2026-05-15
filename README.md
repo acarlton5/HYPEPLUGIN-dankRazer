@@ -44,7 +44,7 @@ systemctl --user enable --now openrazer-daemon
 ### From the plugin registry
 
 ```
-dms plugins install dankRazer
+hype plugins install dankRazer
 ```
 
 Then build the CLI:
